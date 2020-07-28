@@ -1,6 +1,6 @@
-> {
-> "name": "ADA Kings",
-> "description": "Great Pool",
-> "ticker": "Kings",
-> "homepage": "https://tinyurl.com/y6z26r5g"
-> }
+{
+"name": "ADA Kings",
+"description": "Great Pool",
+"ticker": "Kings",
+"homepage": "https://tinyurl.com/y6z26r5g"
+}
